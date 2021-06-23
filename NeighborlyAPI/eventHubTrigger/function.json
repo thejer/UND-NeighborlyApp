@@ -2,10 +2,10 @@
   "scriptFile": "__init__.py",
   "bindings": [
     {
-      "type": "eventGridTrigger",
+      "type": "eventHubTrigger",
       "name": "event",
       "direction": "in",
-      "eventHubName": "testhub", 
+      "eventHubName": "neighborlyappevnthub", 
       "connection": "Endpoint=sb://neighborlyappeventnamespace.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=PCdv1NzZQAQ5I5sCqXkYbH3dLLA44ENBKHitOpBBdP4="
     }
   ]

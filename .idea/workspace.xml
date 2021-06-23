@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f4b6afe-85a8-43b2-83a5-2af95d6b4b20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nd081-c2-Building-and-deploying-cloud-native-applications-from-scratch-project-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nd081-c2-Building-and-deploying-cloud-native-applications-from-scratch-project-starter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeighborlyAPI/eventHubTrigger/function.json" beforeDir="false" afterPath="$PROJECT_DIR$/NeighborlyAPI/eventHubTrigger/function.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -153,6 +151,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -195,12 +198,12 @@
       <workItem from="1623939704707" duration="1058000" />
       <workItem from="1624351145268" duration="30000" />
       <workItem from="1624351196366" duration="1051000" />
-      <workItem from="1624440828415" duration="367000" />
+      <workItem from="1624440828415" duration="758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2506000" />
+    <option name="totallyTimeSpent" value="2897000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
