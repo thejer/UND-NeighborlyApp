@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ==",
+    "AzureWebJobsStorage": ""
+  },
+  "ConnectionStrings": {
+    "CosmosDBConnectionString": "mongodb://neighborlyappcosmosdb:s3QCt1lCvQLNUSTzPafZSY1K9Gqm0ANfxCNKYNIJ8nW32gf2T9ko2qCCLv0jZt17eIr61iUIEuuZjN8I0wAOhw%3D%3D@neighborlyappcosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborlyappcosmosdb@"
+  },
+
+  "AzureWebJobsStorage": ""
+}
